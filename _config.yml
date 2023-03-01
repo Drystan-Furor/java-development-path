@@ -27,7 +27,8 @@ description: >-                        # used by seo meta and the atom feed
   A learning path to grow into a Java developer, everything from zero to hero.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://github.com/Drystan-Furor/java-development-path'
+# https://github.com/Drystan-Furor/java-development-path
+url: 'https://drystan-furor.github.io/java-development-path/'
 
 github:
   username: Drystan-Furor             # change to your github username
