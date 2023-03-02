@@ -7,8 +7,8 @@ tags: [just another programming language]     # TAG names should always be lower
 
 # Java
 
-> **Start daily exercises** [in a Code Gym](https://codegym.cc/nl/quests/lectures/nl.questsyntax.level00.lecture02)
-> {: .prompt-tip }
+> # Start daily exercises [in the Code Gym](https://codegym.cc/)
+{: .prompt-tip }
 
 I originally approached Java as “just another programming language,”
 which in many senses it is. But as time passed and I studied it more
@@ -24,7 +24,11 @@ I guess this means that you chose the right language to learn, and that you stum
 Bear with me as I tell you some basics today.
 
 ***
-**Java is the number 1 in enterprisesoftware**
+
+```java
+ System.out.println('Java is the number 1 in enterprisesoftware')
+```
+{: .nolineno }
 
 This means that the heavy applications that large companies work with are written in Java.
 
@@ -36,19 +40,19 @@ The server side of many web apps is also built in Java. You come across Java in 
 educational and healthcare institutions and other organisations.
 
 ***
-**Tools for programmers**
+## Tools for programmers
 
 Software development tools are also quite often written in Java.
 
 ***
-**Java is a major player in big data**
+## Java is a major player in big data
 
 Hadoop and many other big data technologies also work with Java. The same applies to
 ElasticSearch, HBase and Accumulo.
 Engineers use Java for scientific applications and mathematical calculations.
 
 ***
-**Android and mobile apps**
+## Android and mobile apps
 
 And as you probably already know, you can use Java to program mobile apps. Android is a whole
 Java-friendly environment. What language do you think most Android apps are written in?"
@@ -62,3 +66,6 @@ Java-friendly environment. What language do you think most Android apps are writ
 - Android's operating system (its user interface) is written in Java along with C and C++.
 - Many Tesla Motors applications are written in Java.
 - And finally: the server side of CodeGym is also made with Java (of course you never thought)!
+
+# [Start with: Start your journey to become a Java Developer]({{ site.baseurl }}{% link _posts/2022-12-01-start.md %})
+# [Continue with: Java is the number 1]({{ site.baseurl }}{% link _posts/2022-12-03-beginner-step2.md %})
