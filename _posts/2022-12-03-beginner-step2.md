@@ -67,5 +67,5 @@ Java-friendly environment. What language do you think most Android apps are writ
 - Many Tesla Motors applications are written in Java.
 - And finally: the server side of CodeGym is also made with Java (of course you never thought)!
 
-# [Start with: Start your journey to become a Java Developer]({{ site.baseurl }}{% link _posts/2022-12-01-start.md %})
-# [Continue with: Java is the number 1]({{ site.baseurl }}{% link _posts/2022-12-03-beginner-step2.md %})
+# [Start with: Start your journey to become a Java Developer]({% link _posts/2022-12-01-start.md %})
+# [Continue with: Java Write Once, Run Anywhere]({% link _posts/2022-12-04-day1.md %})
