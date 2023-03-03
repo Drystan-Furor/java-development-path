@@ -20,7 +20,8 @@ systems, real-time software, data mining, cloud computing, you name it. The thin
 this, because Java is mostly used to write server-side applications,
 usually with no front-end at all. And users mainly see the front-end of a system. That's what the front ends are for.
 
-I guess this means that you chose the right language to learn, and that you stumbled upon this wee lil' webshite of mine.
+I guess this means that you chose the right language to learn, and that you stumbled upon this wee lil' webshite of
+mine.
 Bear with me as I tell you some basics today.
 
 ***
@@ -28,6 +29,7 @@ Bear with me as I tell you some basics today.
 ```java
  System.out.println('Java is the number 1 in enterprisesoftware')
 ```
+
 {: .nolineno }
 
 This means that the heavy applications that large companies work with are written in Java.
@@ -40,11 +42,13 @@ The server side of many web apps is also built in Java. You come across Java in 
 educational and healthcare institutions and other organisations.
 
 ***
+
 ## Tools for programmers
 
 Software development tools are also quite often written in Java.
 
 ***
+
 ## Java is a major player in big data
 
 Hadoop and many other big data technologies also work with Java. The same applies to
@@ -52,6 +56,7 @@ ElasticSearch, HBase and Accumulo.
 Engineers use Java for scientific applications and mathematical calculations.
 
 ***
+
 ## Android and mobile apps
 
 And as you probably already know, you can use Java to program mobile apps. Android is a whole
@@ -67,5 +72,16 @@ Java-friendly environment. What language do you think most Android apps are writ
 - Many Tesla Motors applications are written in Java.
 - And finally: the server side of CodeGym is also made with Java (of course you never thought)!
 
+***
+# Lambda expression
+A lambda expression is a piece of code in Java that can be treated as an object of a functional interface. It is a way
+to create anonymous functions in Java. A lambda expression consists of two parts: a list of parameters and an expression
+or block of code. These functions can be used in many contexts where a functional interface object is needed, such as in
+the Stream API.
+
+> # READ: [Lambda](https://dev.to/m_aamir/a-brief-introduction-to-java-lambda-expressions-2p3f)
+{: .prompt-info }
+
+***
 # [Start with: Start your journey to become a Java Developer]({% link _posts/2022-12-01-start.md %})
 # [Continue with: Java Write Once, Run Anywhere]({% link _posts/2022-12-04-day1.md %})
