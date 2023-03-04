@@ -32,7 +32,7 @@ class MyClass
 {
   public static void main(String[ ] args) {
 
-    System.out.println("Java is the number 1 in enterprisesoftware");
+    System.out.println("Java is the number 1 in enterprise software");
   }
 }
 
@@ -91,4 +91,4 @@ the Stream API.
 
 ***
 # [Start with: Start your journey to become a Java Developer]({% link _posts/2022-12-01-start.md %})
-# [Continue with: Java Write Once, Run Anywhere]({% link _posts/2022-12-04-day1.md %})
+# [Continue with: Java Write Once, Run Anywhere]({% link _posts/2022-12-04-wora.md %})
