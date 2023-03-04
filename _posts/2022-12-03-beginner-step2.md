@@ -26,10 +26,17 @@ Bear with me as I tell you some basics today.
 
 ***
 
-```java
- System.out.println('Java is the number 1 in enterprisesoftware')
-```
 
+```java
+class MyClass
+{
+  public static void main(String[ ] args) {
+
+    System.out.println("Java is the number 1 in enterprisesoftware");
+  }
+}
+
+```
 {: .nolineno }
 
 This means that the heavy applications that large companies work with are written in Java.
