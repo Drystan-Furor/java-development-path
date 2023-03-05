@@ -58,5 +58,4 @@ Mapstruct, like Lombok, provides code generation for us in compile time, (you ca
 ***
 
 # [Start with: Start your journey to become a Java Developer]({% link _posts/2022-12-01-start.md %})
-
-# [Continue with: What is Maven]({% link _posts/2022-12-05-day2.md %})
+# [Continue with: What is Maven]({% link _posts/2022-12-07-spring.md %})
