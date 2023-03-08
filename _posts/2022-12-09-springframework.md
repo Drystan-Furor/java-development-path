@@ -57,7 +57,8 @@ spring comes with connectivity, querying, transaction management and more.
 > Build web applications easy
 - dynamic web page applications
 - REST APIs
-- --
+
+
 ```
 {
 	name: SpringFramework
