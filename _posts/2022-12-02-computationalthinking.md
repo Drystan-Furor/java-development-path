@@ -124,6 +124,8 @@ CSP
 Content Security Protocol
 
 ---
+> Start daily exercises [in the Code Gym](https://codegym.cc/)
+{: .prompt-tip }
 
 # [Start with: Start your journey to become a Java Developer]({% link _posts/2022-12-01-start.md %})
 # [Continue with: Java is the number 1]({% link _posts/2022-12-03-javanumberone.md %})

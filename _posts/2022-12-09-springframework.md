@@ -5,8 +5,6 @@ categories: [Spring, Framework]
 tags: [framework]     # TAG names should always be lowercase
 mermaid: true
 ---
-> ### Start daily exercises [in the Code Gym](https://codegym.cc/)
-{: .prompt-tip }
 
 # Spring FRAMEWORK
 ![logo](https://miro.medium.com/max/716/1*jMQ9lkY5SBnbcOlJB4aizg.png)
@@ -102,5 +100,8 @@ graph TD
 
 
 ***
+> Start daily exercises [in the Code Gym](https://codegym.cc/)
+{: .prompt-tip }
+
 # [Start with: Start your journey to become a Java Developer]({% link _posts/2022-12-01-start.md %})
 # [Continue with: Spring]({% link _posts/2022-12-08-spring.md %})

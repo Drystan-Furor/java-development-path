@@ -4,9 +4,6 @@ date: 2022-12-07 20:01:01 +0100
 categories: [Tools, mapstruct]
 tags: [mapping data]     # TAG names should always be lowercase
 ---
-> ### Start daily exercises [in the Code Gym](https://codegym.cc/)
-{: .prompt-tip }
-
 # MapStruct
 
 ![logo](https://mapstruct.org/images/mapstruct.png)
@@ -56,6 +53,8 @@ Mapstruct, like Lombok, provides code generation for us in compile time, (you ca
 {: .prompt-info }
 
 ***
+> Start daily exercises [in the Code Gym](https://codegym.cc/)
+{: .prompt-tip }
 
 # [Start with: Start your journey to become a Java Developer]({% link _posts/2022-12-01-start.md %})
 # [Continue with: Spring]({% link _posts/2022-12-08-spring.md %})

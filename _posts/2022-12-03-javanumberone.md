@@ -90,5 +90,8 @@ the Stream API.
 {: .prompt-info }
 
 ***
+> Start daily exercises [in the Code Gym](https://codegym.cc/)
+{: .prompt-tip }
+
 # [Start with: Start your journey to become a Java Developer]({% link _posts/2022-12-01-start.md %})
 # [Continue with: Java Write Once, Run Anywhere]({% link _posts/2022-12-04-wora.md %})
