@@ -3,6 +3,7 @@ title: Java is the number 1
 date: 2022-12-03 20:01:01 +0100
 categories: [Beginner, Java]
 tags: [just another programming language]     # TAG names should always be lowercase
+pin: true
 ---
 
 # Java

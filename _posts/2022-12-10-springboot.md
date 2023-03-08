@@ -4,6 +4,7 @@ date: 2022-12-10 20:01:01 +0100
 categories: [Spring, Boot]
 tags: [Spring Boot]     # TAG names should always be lowercase
 mermaid: true
+pin: true
 ---
 
 # Spring BOOT
@@ -93,4 +94,4 @@ graph TD
 
 # [Start with: Start your journey to become a Java Developer]({% link _posts/2022-12-01-start.md %})
 
-# [Continue with: Spring]({% link _posts/2022-12-08-spring.md %})
+# [Continue with: Spring Security]({% link _posts/2022-12-11-springsecurity.md %})

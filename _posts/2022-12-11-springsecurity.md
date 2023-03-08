@@ -153,4 +153,4 @@ application level outside of secure coding practices themselves.
 
 # [Start with: Start your journey to become a Java Developer]({% link _posts/2022-12-01-start.md %})
 
-# [Continue with: What is Maven]({% link _posts/2022-12-05-maven.md %})
+# [Continue with: Spring JPA]({% link _posts/2022-12-12-springjpa.md %})
