@@ -170,7 +170,7 @@ public class Person {
 							</table>
 		  </div>
         <p>
-          <a href="/signup" th:href="@{/signup}" class="btn btn-large btn-success">Sign up</a>
+          <a href="{% link _posts/2022-12-01-start.md %}" th:href="@{/signup}" class="btn btn-large btn-success">Sign up</a>
         </p>
       </div>
       <div th:replace="fragments/footer :: footer">&copy; 2016 The Static Templates</div>
