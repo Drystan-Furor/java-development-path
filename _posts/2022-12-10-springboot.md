@@ -11,8 +11,8 @@ pin: true
 
 ![logo](https://miro.medium.com/max/716/1*jMQ9lkY5SBnbcOlJB4aizg.png)
 
-Please sit down and relax, start your IDE and follow this video. It will give you experience in how to use Spring Boot.
-
+> Please sit down and relax, start your IDE and follow this video. It will give you experience in how to use Spring Boot.
+{: .prompt-tip }
 
 {% include embed/youtube.html id='9SGDpanrc8U' %}
 _Link to video [Spring(BOOT)](https://www.youtube.com/watch?v=9SGDpanrc8U)_
