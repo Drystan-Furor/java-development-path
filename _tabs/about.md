@@ -25,3 +25,9 @@ work has brought him. He is a reminder that with perseverance and passion, anyon
 their life for the better.
 > This was merely the beginning
 {: .prompt-tip }
+
+> [My Portfolio](https://drystan-furor.github.io/Portfolio/)
+{: .prompt-info }
+
+> [Visit my GitHub](https://github.com/Drystan-Furor)
+{: .prompt-warning }
