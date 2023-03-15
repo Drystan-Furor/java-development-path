@@ -152,4 +152,4 @@ should be pushed to GitHub.
 
 # [Start with: Start your journey to become a Java Developer]({% link _posts/2022-12-01-start.md %})
 
-# [Continue with: Spring]({% link _posts/2022-12-08-spring.md %})
+# [Continue with: 12 factor apps]({% link _posts/2022-12-17-twelvefactorapps.md %})
