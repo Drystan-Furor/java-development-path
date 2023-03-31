@@ -1,5 +1,5 @@
 ---
-title: "12 facto apps"
+title: "12 factor apps"
 date: 2022-12-17 20:01:01 +0100
 categories: [Knowledge, Structure]
 tags: [the structure of an app]     # TAG names should always be lowercase
@@ -185,4 +185,4 @@ I --- II --- III --- IV --- V --- VI --- VII --- VIII --- IX --- X --- XI --- XI
 
 # [Start with: Start your journey to become a Java Developer]({% link _posts/2022-12-01-start.md %})
 
-# [Continue with: Spring]({% link _posts/2022-12-08-spring.md %})
+# [Continue with: Database basics]({% link _posts/2022-12-18-databasics.md %})

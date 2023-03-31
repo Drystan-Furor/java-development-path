@@ -148,7 +148,7 @@ should be pushed to GitHub.
 
 ***
 > Start daily exercises [in the Code Gym](https://codegym.cc/)
-> {: .prompt-tip }
+{: .prompt-tip }
 
 # [Start with: Start your journey to become a Java Developer]({% link _posts/2022-12-01-start.md %})
 
